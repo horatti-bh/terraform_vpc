@@ -1,3 +1,6 @@
 @Library('shared_libraries') _
 
-terraform()
+terraform(
+    APPLY: true
+    DESTROY: flase
+)
