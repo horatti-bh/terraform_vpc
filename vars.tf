@@ -1,0 +1,9 @@
+variable "PRIVATE_VPC_CIDR"       {}
+variable "PUBLIC_VPC_CIDR"        {}
+variable "key"                    {}
+variable "bucket"                 {}
+variable "PUBLIC_SUBNETS_COUNT"   {}
+variable "PRIVATE_SUBNETS_COUNT"  {}
+variable "TAGS"                   {}
+variable "MGMT_VPC_ID"            {}
+variable "MGMT_ROUTE_TABLE"       {}
