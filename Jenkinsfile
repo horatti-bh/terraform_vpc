@@ -1,6 +1,6 @@
 @Library('shared_libraries') _
 
 terraform(
-    APPLY: true
-    DESTROY: flase
+    APPLY: true,
+    DESTROY: false
 )
