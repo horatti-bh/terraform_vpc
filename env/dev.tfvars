@@ -1,11 +1,11 @@
 ## State File
 bucket        = "temp7777"
-key           = "rs/terraform.tfstate"
+key           = "roboshop/vpc/dev/terraform.tfstate"
 
 ## Variables
 #PRIVATE_VPC_CIDR        = "10.20.0.0/16"
 #PUBLIC_VPC_CIDR         = "10.21.0.0/16"
-##
+#
 #TAGS                    = {"ENV": "DEV"}
 #PUBLIC_SUBNETS_COUNT    = 2
 #PRIVATE_SUBNETS_COUNT   = 2
