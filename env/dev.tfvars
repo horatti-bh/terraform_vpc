@@ -1,6 +1,6 @@
 ## State File
 bucket        = "temp7777"
-key           = "terraform.tfstate"
+key           = "rs/terraform.tfstate"
 
 ## Variables
 #PRIVATE_VPC_CIDR        = "10.20.0.0/16"
