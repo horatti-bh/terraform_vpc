@@ -10,7 +10,7 @@ data "terraform_remote_state" "route53" {
   backend = "s3"
   config = {
     bucket = var.bucket
-    key    = "roboshop/route53/terraform.tfstate"
+    key    = "terraform.tfstate"
     region = "us-east-1"
     dynamodb_table = "terraform_state_lock_check"
     access_key = "AKIA6QO5WSPDRYJ2VK7V"
