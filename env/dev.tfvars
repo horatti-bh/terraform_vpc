@@ -1,5 +1,5 @@
 ## State File
-bucket        = "d47-terraform-states"
+bucket        = "temp7777"
 key           = "roboshop/vpc/dev/terraform.tfstate"
 
 ## Variables
